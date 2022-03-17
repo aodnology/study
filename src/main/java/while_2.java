@@ -9,9 +9,10 @@ public class while_2 {
                 System.out.println(i+" x "+ j + " = " + i*j + "입니다");
                 j++;
             }
-            System.out.println("");
+            System.out.println();
             j=1;
             i++;
         }
     }
 }
+
