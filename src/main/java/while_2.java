@@ -15,4 +15,3 @@ public class while_2 {
         }
     }
 }
-
